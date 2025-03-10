@@ -1,0 +1,18 @@
+Requisite Location Report
+Summary report:
+CLILIVE objects:
+    Objects with requisites in library CLILIVE: 8
+    Objects with requisites in library CLILIVE: 8
+
+Detail report:
+CLILIVE objects:
+    Objects with requisites in library CLILIVE:
+        *FILE PF        CLILIVE/CUSMST                      
+        *FILE LF        CLILIVE/CUSMSTL1                    
+        *FILE LF        CLILIVE/CUSMSTL2                    
+        *FILE LF        CLILIVE/CUSMSTL3                    
+        *FILE DSPF      CLILIVE/MAINMENU                    
+        *FILE DSPF      CLILIVE/MNTMENU                     
+        *FILE DSPF      CLILIVE/SCHNAMD                     
+        *FILE DSPF      CLILIVE/SCHZIPD                     
+End of Requisite Location Report.

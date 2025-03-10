@@ -1,0 +1,23 @@
+Source Location Report
+Summary report:
+CLILIVE objects:
+    Objects with source in library CLILIVE: 14
+
+Detail report:
+CLILIVE objects:
+    Objects with source in library CLILIVE:
+        *MODULE RPGLE   CLILIVE/CUSMAIN                     
+        *FILE DSPF      CLILIVE/MAINMENU                    
+        *MODULE RPGLE   CLILIVE/CUSMNT                      
+        *FILE LF        CLILIVE/CUSMSTL1                    
+        *FILE PF        CLILIVE/CUSMST                      
+        *FILE DSPF      CLILIVE/MNTMENU                     
+        *MODULE RPGLE   CLILIVE/SCHNAM                      
+        *FILE LF        CLILIVE/CUSMSTL3                    
+        *FILE DSPF      CLILIVE/SCHNAMD                     
+        *MODULE RPGLE   CLILIVE/SCHZIP                      
+        *FILE LF        CLILIVE/CUSMSTL2                    
+        *FILE DSPF      CLILIVE/SCHZIPD                     
+        *PGM RPGLE      CLILIVE/SCHNAMRPG                   
+        *CMD            CLILIVE/CUSTMAINT                   
+End of Source Location Report.
